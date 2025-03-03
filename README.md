@@ -12,9 +12,9 @@ In this project, I conducted a sales funnel analysis using website event data to
 **Segmented users by top 3 countries to compare funnel performance across different regions.
 
 **🔹Data Visualization & Business Insights
-**Built a funnel chart to track conversion rates and user drop-offs.
-**Calculated percentage drop-off per stage to pinpoint bottlenecks in the user journey.
-**Provided insights and recommendations to improve customer retention and conversion rates.
+-Built a funnel chart to track conversion rates and user drop-offs.
+-Calculated percentage drop-off per stage to pinpoint bottlenecks in the user journey.
+-Provided insights and recommendations to improve customer retention and conversion rates.
 
 **🔹Business Impact:
 **Identified key friction points in the checkout process that could lead to revenue loss.
